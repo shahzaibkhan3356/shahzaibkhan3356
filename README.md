@@ -11,7 +11,7 @@
 
 - 🤝 I’m looking for help with **Flutter Projects**
 
-- 👨‍💻 All of my projects are available at [https://github.com/JuniorDevolper](https://github.com/JuniorDevolper)
+- 👨‍💻 All of my projects are available at [https://github.com/JuniorDevolper](https://github.com/shahzaibkhan3356)
 
 - 💬 Ask me about **Flutter and Andriod Native**
 
