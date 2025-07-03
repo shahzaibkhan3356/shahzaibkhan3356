@@ -1,33 +1,74 @@
-<h1 align="center">Hi 👋, I'm SHAHZAIB KHAN</h1>
-<h3 align="center">A passionate FLutter developer from Pakistan</h3>
+<!-- GitHub Profile README for Shahzaib Khan -->
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=juniordeveloper&label=Profile%20views&color=0e75b6&style=flat" alt="juniordeveloper" /> </p>
+<h1 align="center">Hi 👋, I'm Shahzaib Khan</h1>
+<h3 align="center">🚀 Full Stack Mobile Developer | Flutter & Android | Clean Architecture Fanatic</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=juniordeveloper" alt="juniordeveloper" /></a> </p>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Building+beautiful+UIs+with+Flutter;Writing+clean+scalable+code;Crafting+next-gen+mobile+experiences&font=Fira%20Code&center=true&width=450&height=45&pause=1000&color=7F00FF&vCenter=true&size=22" />
+</div>
 
-- 🌱 I’m currently learning **Flutter**
+---
 
-- 👯 I’m looking to collaborate on **Flutter Projects**
+### 👨‍💻 About Me
 
-- 🤝 I’m looking for help with **Flutter Projects**
+- 💻 I build **high-performance cross-platform apps** using **Flutter (Dart)** and **native Android (Kotlin/Java)**.
+- 🎯 Fan of **BLoC**, **Clean Architecture**, and responsive, scalable UIs using `Get.height/width`.
+- 🌐 Currently building a **multi-page futuristic portfolio** in `Next.js` using `Tailwind`, `3D effects`, and `neumorphism`.
+- 🛠️ Skilled in: `Dart`, `Flutter`, `Kotlin`, `Java`, `Provider`, `Riverpod`, `BLoC`, `GetX`, `Firebase`, `Dio`, `SQLite`, `Hive`, `WebSocket`, `GitHub Actions`.
+- 📲 Love building **offline-capable apps**, **media tools**, and **secure real-time systems**.
+- 🌍 Applying for 🇵🇹 **Bachelor’s in Software Engineering (Portugal)**.
 
-- 👨‍💻 All of my projects are available at [https://github.com/shahzaibkhan3356](https://github.com/shahzaibkhan3356)
+---
 
-- 💬 Ask me about **Flutter and Andriod Native**
+### 📌 My Latest Projects
 
-- 📫 How to reach me **shahzaibkhan3356@gmail.com**
+| App Name | Description |
+|---------|-------------|
+| 🎧 **Universal Media Downloader** | A modern media downloader powered by `Firebase`, `AdMob`, and `GetX`. |
+| 🔐 **Secure Credit & Debt Manager** | Finance tracker app built with `Riverpod`, `Hive`, and full local encryption. |
+| 📦 **Tailor’s Apparel System** | Measurement & order tracker with a clean backend-driven flow. |
+| 💬 **Encrypted Chat App** | Real-time secure chat using `Firebase`, `Provider`, `Fernet`. |
+| 🎶 **Offline Multimedia Player** | Fully custom audio/video player with `DSP` effects and `Provider` state logic. |
 
-- ⚡ Fun fact **I Love Coding**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+### 🧰 Tech Stack
+
+![Dart](https://img.shields.io/badge/-Dart-0175C2?logo=dart&logoColor=white)
+![Flutter](https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white)
+![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?logo=kotlin&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)
+![Hive](https://img.shields.io/badge/-Hive-F9DC3E?logo=hive&logoColor=black)
+![SQLite](https://img.shields.io/badge/-SQLite-003B57?logo=sqlite&logoColor=white)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black)
+![GitHub Actions](https://img.shields.io/badge/-CI/CD-2088FF?logo=githubactions&logoColor=white)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=nextdotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind-06B6D4?logo=tailwindcss&logoColor=white)
+
+---
+
+### 🌐 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/shahzaibkhan3356)  
+[![Gmail](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white)](mailto:shahzaibkhan3356@gmail.com)  
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)](https://github.com/shahzaibkhan3356)  
+[![My Portfolio](https://img.shields.io/badge/-My%20Portfolio-7F00FF?style=flat-square&logo=vercel&logoColor=white)](https://your-futuristic-portfolio-link.vercel.app)
+
+---
+
+### ⚡ Stats That Speak
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shahzaibkhan3356&show_icons=true&theme=radical" alt="Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shahzaibkhan3356&theme=radical" alt="Streak" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=juniordeveloper&show_icons=true&locale=en&layout=compact" alt="juniordeveloper" /></p>
+### ✍️ Motto
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=juniordeveloper&show_icons=true&locale=en" alt="juniordeveloper" /></p>
+> *"Build scalable apps, write elegant code, ship like a pro."*
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=juniordeveloper&" alt="juniordeveloper" /></p>
+---
+
+<!-- profile README end -->
